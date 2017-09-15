@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">False Means True</string>
+    <string name="false_text">false</string>
+    <string name="true_text">true</string>
+    <string name="next">next</string>
+    <string name="jelly">Jellyfish are warm</string>
+    <string name="notes">Notebooks have to be rectangular</string>
+    <string name="ferrets">Ferrets need water</string>
+    <string name="tnf">true means false and false means true</string>
+    <string name="burgers">In-N-Out should move to New York</string>
+    <string name="babyHeads">Babies have squishy heads</string>
+</resources>
